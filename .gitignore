@@ -57,3 +57,15 @@ typings/
 # dotenv environment variables file
 .env
 
+
+# Development stuff
+
+*.db
+
+# Golang stuff
+
+main
+
+
+# Filesystem specific stuff
+.DS_Store
