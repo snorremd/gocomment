@@ -1,0 +1,45 @@
+.gocomment {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.gocomment__loader {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.gocomment__comment {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.gocomment__comment__avatar {
+    margin-right: 1em;
+    height: 80px;
+}
+
+.gocomment__comment__body {
+    width: 100%;
+}
+
+.gocomment__comment__header {
+    width: 100%;
+}
+
+.gocomment__comment__content {
+    margin-bottom: 2em;
+}
+
+.gocomment__comment__user {
+    font-weight: bolder;
+    margin-right: 0.25em;
+}
+
+.gocomment__comment__user > a {
+    text-decoration: none;
+    color: black;
+}

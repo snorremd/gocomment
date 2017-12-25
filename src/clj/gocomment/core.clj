@@ -1,0 +1,1 @@
+(ns gocomment.core)
