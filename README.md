@@ -1,6 +1,8 @@
 # gocomment
 
-A simple comment application for the modern age. Runs a RESTish comment server
+Not developed any further.
+
+An experiment in building a comment system. Runs a RESTish comment server
 built on [go](https://golang.org/) and an embeddable client side application
 built on the [re-frame](https://github.com/Day8/re-frame) framework on top of
 [ClojureScript](https://clojurescript.org/).
